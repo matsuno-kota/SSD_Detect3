@@ -1,0 +1,1 @@
+src/ssd512_pascal_07[[:space:]]12_epoch-96_loss-3.8750_val_loss-3.4617.h5 filter=lfs diff=lfs merge=lfs -text
